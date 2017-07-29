@@ -10,6 +10,7 @@ If you'd like to leave a message, you can find me on [twitter](http://twitter.co
 * A Windows/MacOS Unity3D [plugin](http://code.google.com/p/unity3d-wavein/) for reading audio data from microphones and such. \[C++, C#\]
 * Some [game jam](http://code.google.com/p/boatjam/) things using [LÖVE](http://love2d.org). \[Lua\]
 * Messing about with the data files for [Jedi Knight](http://code.google.com/p/jktools/). \[C\]
+
 ## Experience
 * 2012- / Havok / Dublin, Ireland / Software Developer
   * "Anarchy RPG" mobile game demo lead developer/project wrangler. \[[Android](https://play.google.com/store/apps/details?id=com.havok.Vision.AnarchyRPG&amp;hl=en), [iOS](https://itunes.apple.com/us/app/anarchy-rpg/id660485296?mt=8)\] / \[[project anarchy site](http://projectanarchy.com/)\]
@@ -24,6 +25,7 @@ If you'd like to leave a message, you can find me on [twitter](http://twitter.co
 * 2000-2003 / Havok / Dublin, Ireland / Developer Relations Engineer
   * Provided technical support for licensees of [Ipion](http://www.gamasutra.com/view/news/2932/Havok_Buys_Ipion.php).
   * Developed cross-platform feature demos for Havok Physics. Represented Havok at developer conferences and trade shows.
+
 ## Education
 * 1996-2000 / Dublin City University
   * BSc (First class honours) Mathematical Sciences

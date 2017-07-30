@@ -1,17 +1,18 @@
-# Hello
-
-My name is Colin Barrett. I am a computer programmer. This is my personal website.
-
+---
+layout: page
+title: Hello
+permalink: /about/
+---
 If you'd like to leave a message, you can find me on [twitter](http://twitter.com/barrettcolin) or [linkedin](http://www.linkedin.com/pub/colin-barrett/4/169/24b). I also comment on [Hacker News](http://news.ycombinator.com/threads?id=barrettcolin).
 
-## Miscellany
+### Miscellany
 * Check out [Urho3D](http://urho3d.github.io/) (I have been a *very* occasional contributor). \[C++\]
 * A [clone](http://code.google.com/p/unity3d-dupe7/) of [Drop7](http://areacodeinc.com/projects/drop7/) made using Unity3D. [Play](http://goo.gl/tBhKZ) it in your browser. \[C#\]
 * A Windows/MacOS Unity3D [plugin](http://code.google.com/p/unity3d-wavein/) for reading audio data from microphones and such. \[C++, C#\]
 * Some [game jam](http://code.google.com/p/boatjam/) things using [LÖVE](http://love2d.org). \[Lua\]
 * Messing about with the data files for [Jedi Knight](http://code.google.com/p/jktools/). \[C\]
 
-## Experience
+### Experience
 * 2012- / Havok / Dublin, Ireland / Software Developer
   * "Anarchy RPG" mobile game demo lead developer/project wrangler. \[[Android](https://play.google.com/store/apps/details?id=com.havok.Vision.AnarchyRPG&amp;hl=en), [iOS](https://itunes.apple.com/us/app/anarchy-rpg/id660485296?mt=8)\] / \[[project anarchy site](http://projectanarchy.com/)\]
 * 2008-2012 / Freelance / Dublin, Ireland / Software Developer
@@ -26,6 +27,6 @@ If you'd like to leave a message, you can find me on [twitter](http://twitter.co
   * Provided technical support for licensees of [Ipion](http://www.gamasutra.com/view/news/2932/Havok_Buys_Ipion.php).
   * Developed cross-platform feature demos for Havok Physics. Represented Havok at developer conferences and trade shows.
 
-## Education
+### Education
 * 1996-2000 / Dublin City University
   * BSc (First class honours) Mathematical Sciences

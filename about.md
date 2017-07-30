@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hello
+title: About
 permalink: /about/
 ---
 If you'd like to leave a message, you can find me on [twitter](http://twitter.com/barrettcolin) or [linkedin](http://www.linkedin.com/pub/colin-barrett/4/169/24b). I also comment on [Hacker News](http://news.ycombinator.com/threads?id=barrettcolin).

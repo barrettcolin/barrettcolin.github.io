@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Moved to GitHub!"
+summary: "Moved the old site to GitHub Pages and resurrected some old posts"
 categories: github
 ---
 

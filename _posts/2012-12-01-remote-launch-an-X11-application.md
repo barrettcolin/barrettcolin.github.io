@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Remote-launch an X11 application"
+summary: Launching AND viewing an X11 application remotely
 categories: linux
 ---
 

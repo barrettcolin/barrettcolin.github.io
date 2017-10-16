@@ -2,7 +2,7 @@
 title:       Colin Barrett, but on the internet
 email:       barrettcolin@gmail.com
 author:      Colin Barrett
-description: "My name is Colin Barrett. I am a software developer and this is my personal website."
+description: "My name is Colin Barrett. I am a computer programmer and this is my personal website."
 baseurl:     ""
 url:         "http://colinbarrett.net"
 date_format: "%b %-d, %Y"

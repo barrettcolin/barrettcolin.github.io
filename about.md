@@ -3,6 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
+My name is Colin Barrett. I am a software developer and this is my personal website.
+
 If you'd like to leave a message, you can find me on [twitter](http://twitter.com/barrettcolin) or [linkedin](http://www.linkedin.com/pub/colin-barrett/4/169/24b). I also comment on [Hacker News](http://news.ycombinator.com/threads?id=barrettcolin).
 
 ### Miscellany

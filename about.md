@@ -16,7 +16,7 @@ If you'd like to leave a message, you can find me on [twitter](http://twitter.co
 
 ### Experience
 * 2019- / Microsoft (Havok) / Dublin, Ireland / Senior Software Engineering Manager
-  * Havok Engineering Operations
+  * Havok Engineering Operations. \[[havok powered](https://www.havok.com/havok-powered/)]
 * 2015-2019 / Microsoft (Havok) / Dublin, Ireland / Senior Software Engineer
   * Windows Mixed Reality. \[[product page](https://www.microsoft.com/en-us/windows/windows-mixed-reality), [unveil](https://blogs.windows.com/windowsexperience/2017/10/03/the-era-of-windows-mixed-reality-begins-october-17)\]
 * 2012-2015 / Havok / Dublin, Ireland / Software Developer

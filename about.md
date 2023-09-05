@@ -15,7 +15,9 @@ If you'd like to leave a message, you can find me on [twitter](http://twitter.co
 * Messing about with the data files for [Jedi Knight](http://code.google.com/p/jktools/). \[C\]
 
 ### Experience
-* 2015- / Microsoft (Havok) / Dublin, Ireland / Senior Software Engineer
+* 2019- / Microsoft (Havok) / Dublin, Ireland / Senior Software Engineering Manager
+  * Havok Engineering Operations
+* 2015-2019 / Microsoft (Havok) / Dublin, Ireland / Senior Software Engineer
   * Windows Mixed Reality. \[[product page](https://www.microsoft.com/en-us/windows/windows-mixed-reality), [unveil](https://blogs.windows.com/windowsexperience/2017/10/03/the-era-of-windows-mixed-reality-begins-october-17)\]
 * 2012-2015 / Havok / Dublin, Ireland / Software Developer
   * "Anarchy RPG" mobile game demo lead developer/project wrangler. \[[Android](https://play.google.com/store/apps/details?id=com.havok.Vision.AnarchyRPG&amp;hl=en), [iOS](https://itunes.apple.com/us/app/anarchy-rpg/id660485296?mt=8)\] / \[[project anarchy site](http://projectanarchy.com/)\]
